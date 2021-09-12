@@ -33,9 +33,6 @@ I'm Loryvi, a 3rd year Computer Science Student 👨‍💻 exploring the world 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 <!--
 **loryvi/loryvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

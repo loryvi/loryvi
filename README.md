@@ -9,7 +9,7 @@ I'm Loryvi, a 3rd year Computer Science Student 👨‍💻 exploring the world 
 - 💻 Still learning and making easy projects.  
   
 
-- ⚡ If im not busy, I watch way too much documentaries or read random articles!  
+- ⚡ If im not busy, Im watching documentaries or read random articles!  
   
 
 <br/>  

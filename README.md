@@ -1,6 +1,6 @@
 # <div align="center">✨ Welcome ✨
 
-I'm Loryvi, a 3rd year Computer Science Student 👨‍💻 exploring the world of data science since since 2020 🚀</div>  
+I'm Loryvi, a 3rd year Computer Science Student 👨‍💻 exploring the world of data science since 2020 🚀</div>  
   
 
 - 🌱 I’m currently learning python and data science  
@@ -9,7 +9,7 @@ I'm Loryvi, a 3rd year Computer Science Student 👨‍💻 exploring the world 
 - 💻 Still learning and making easy projects.  
   
 
-- ⚡ If im not busy, Im watching documentaries or read random articles!  
+- ⚡ If im not busy, Im watching documentaries or reading random articles!  
   
 
 <br/>  
@@ -17,9 +17,6 @@ I'm Loryvi, a 3rd year Computer Science Student 👨‍💻 exploring the world 
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/loryvi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/l0ryvi" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>

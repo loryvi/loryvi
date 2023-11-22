@@ -1,11 +1,11 @@
 # <div align="center">✨ Welcome ✨
 
-I'm Loryvi, a 4th year Computer Science Student 👨‍💻 exploring the world of data and front-end since 2020 🚀</div>  
+I'm Loryvi, a Computer Science Graduate.👨‍💻 Passionate about technology and dabbles in AI/ML and data! I like to code, read, and journal. 🚀</div>  
   
 
-- 🌱 Currently learning python,sql, and data engineering! 
+- 🌱 Currently learning python and javascript! 
 
-- ⚡ If im not busy, Im watching documentaries, kdrama, and reading articles!  
+- ⚡ If im not busy, Im watching documentaries, kdrama, and journaling!  
   
 
 <br/>  
@@ -22,9 +22,36 @@ I'm Loryvi, a 4th year Computer Science Student 👨‍💻 exploring the world 
 <a href="https://medium.com/@loryvi" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>   
+
+<a href="https://lory-everyday.glitch.me/" target="_blank">
+<img src=https://img.shields.io/badge/glitch-%23131417.svg?&style=for-the-badge&logo=glitch&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>   
 </div>  
 
 <br />
+
+### Languages and Tools:
+
+<div>
+  <img src=https://img.shields.io/badge/html-%23131417.svg?&style=for-the-badge&logo=html&logoColor=white alt=html style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/css-%23131417.svg?&style=for-the-badge&logo=css&logoColor=white alt=css style="margin-bottom: 5px;" />
+   <img src=https://img.shields.io/badge/javascript-%23131417.svg?&style=for-the-badge&logo=javascript&logoColor=white alt=javascript style="margin-bottom: 5px;" />
+   <img src=https://img.shields.io/badge/vue-%23131417.svg?&style=for-the-badge&logo=vue&logoColor=white alt=vue style="margin-bottom: 5px;" />
+   <img src=https://img.shields.io/badge/quasar-%23131417.svg?&style=for-the-badge&logo=quasar&logoColor=white alt=quasar style="margin-bottom: 5px;" />
+   <img src=https://img.shields.io/badge/github-%23131417.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+   <img src=https://img.shields.io/badge/python-%23131417.svg?&style=for-the-badge&logo=python&logoColor=white alt=python style="margin-bottom: 5px;" />
+   <img src=https://img.shields.io/badge/django-%23131417.svg?&style=for-the-badge&logo=django&logoColor=white alt=django style="margin-bottom: 5px;" />
+   <img src=https://img.shields.io/badge/php-%23131417.svg?&style=for-the-badge&logo=php&logoColor=white alt=php style="margin-bottom: 5px;" />
+   <img src=https://img.shields.io/badge/reactjs-%23131417.svg?&style=for-the-badge&logo=reactjs&logoColor=white alt=reactjs style="margin-bottom: 5px;" />
+   <img src=https://img.shields.io/badge/tailwind-%23131417.svg?&style=for-the-badge&logo=tailwind&logoColor=white alt=tailwind style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/C-%23131417.svg?&style=for-the-badge&logo=C&logoColor=white alt=C style="margin-bottom: 5px;" />
+</div>
+
+## ⚡ Github Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=loryvi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loryvi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
 
 <!--
 **loryvi/loryvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

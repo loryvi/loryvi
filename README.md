@@ -1,6 +1,6 @@
 # <div align="center">✨ Welcome ✨
 
-I'm Loryvi, a Computer Science Graduate.👨‍💻 Passionate about technology and dabbles in AI/ML and data! I like to code, read, and journal. 🚀</div>  
+I'm Loryvi, a Computer Science Graduate.👨‍💻 Passionate about technology and dabbles in Software Developement, AI/ML and data! I like to code, read, and journal. 🚀</div>  
   
 
 - 🌱 Currently learning python and javascript! 
@@ -44,7 +44,7 @@ I'm Loryvi, a Computer Science Graduate.👨‍💻 Passionate about technology 
    <img src=https://img.shields.io/badge/php-%23131417.svg?&style=for-the-badge&logo=php&logoColor=white alt=php style="margin-bottom: 5px;" />
    <img src=https://img.shields.io/badge/reactjs-%23131417.svg?&style=for-the-badge&logo=reactjs&logoColor=white alt=reactjs style="margin-bottom: 5px;" />
    <img src=https://img.shields.io/badge/tailwind-%23131417.svg?&style=for-the-badge&logo=tailwind&logoColor=white alt=tailwind style="margin-bottom: 5px;" />
-  <img src=https://img.shields.io/badge/C-%23131417.svg?&style=for-the-badge&logo=C&logoColor=white alt=C style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/C-%23131417.svg?&style=for-the-badge&logo=C&logoColor=white style="margin-bottom: 5px;" />
 </div>
 
 ## ⚡ Github Stats

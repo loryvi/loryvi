@@ -1,6 +1,6 @@
 # <div align="center">✨ Welcome ✨
 
-I'm Loryvi, a Computer Science Graduate.👨‍💻 Passionate about technology and dabbles in Software Developement, AI/ML and data! I like to code, read, and journal. 🚀</div>  
+Hi! My name is Lory, a Computer Science Graduate.👨‍💻 Passionate about technology and dabbles in Software Developement, AI/ML and data! I like to code, read, and journal. 🚀</div>  
   
 
 - 🌱 Currently learning python and javascript! 

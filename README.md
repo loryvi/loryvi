@@ -10,6 +10,9 @@ Hi! My name is Lory, a Computer Science Graduate.👨‍💻 Passionate about te
 
 <br/>  
 
+## View my blogsite where I share my wins!
+https://loryvi-blog.vercel.app/
+
 
 ## Connect with me  
 <div align="center">

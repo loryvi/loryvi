@@ -3,9 +3,9 @@
 Hi! My name is Lory, a Computer Science Graduate.👨‍💻 Passionate about technology and dabbles in Software Developement, AI/ML and data! I like to code, read, and journal. 🚀</div>  
   
 
-- 🌱 Currently learning python and javascript! 
+- 🌱 Currently learning: python! 
 
-- ⚡ If im not busy, Im watching documentaries, kdrama, and journaling!  
+- ⚡ If i want to take a break from coding, Im either watching documentaries, kdrama, journaling or in nature!  
   
 
 <br/>  

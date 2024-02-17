@@ -18,7 +18,7 @@
 </p>
 
 ### ( ◡‿◡ *) A little more about me...  
-<p>🔭 I like details and I’ve worked as a Frontend Developer, where I enjoyed making responsive and turning the User Design into reality. </p>
+<p>🔭 I like details and I’ve worked as a Frontend Developer, where I enjoyed making responsive and turning the User Design into reality. But currently, I am learning C#. I personally think it's easier than javascript. (.❛ ᴗ ❛.) </p>
 <p>🎓 Tumblr got me into taking Computer Science as a Degree. Ever since I was young, I loved tinkering on computer and I started coding when I was 13! My first language was CSS. </p>
 <p>🎨 Aside from coding, journaling has been a hobby of mine ever since. It is fun to document memories and reminisce them later on. </p>
 <p>💡 A life-long learner. Everyday you always learn new things. Did you know there's is no number from 1 to 999 includes the letter "a" in its word form?  </p>
